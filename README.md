@@ -1,2 +1,2 @@
-the coordinates is your flag
-eg: XPL8{1.1111_1.1111}
+the person's name who captured this image is your flag
+eg: XPL8{Tejas_Hole}
