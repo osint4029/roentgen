@@ -1,1 +1,2 @@
-the flag is the name of the person who captured this visual
+the coordinates is your flag
+eg: XPL8{1.1111_1.1111}
